@@ -6,3 +6,5 @@ abstract class NumberTriviaRepository {
   Future<Either<Failures, NumberTrivia>> getConcreteNumberTrivia(int number);
   getRamdomTrivia();
 }
+
+//push
